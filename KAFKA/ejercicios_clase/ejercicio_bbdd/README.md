@@ -1,5 +1,8 @@
 # Exercise 6: Kafka Connect
 
+
+http://localhost:5050
+
 ## Objectives
 
 1) Use Postgresql as a source of data. So when you do an INSERT row into Posgresql, the new row is automatically 
